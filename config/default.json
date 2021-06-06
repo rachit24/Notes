@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://rachit24:rachit242531@cluster0.2iju6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
